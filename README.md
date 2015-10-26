@@ -56,4 +56,4 @@ You can also pass this lab by creating a new file. From Terminal, you can run `t
 
 ![learn submit](https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-submit-cli-osx.gif)
 
-You should see this lab pass on Learn.co, congratulations!
+You should see this lab pass on Learn.co. Congratulations!
