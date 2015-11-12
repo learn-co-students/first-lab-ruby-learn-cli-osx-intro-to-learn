@@ -1,4 +1,4 @@
-# First Lab Ruby Learn Cli Osx
+# First Lab Ruby Learn CLI  OS X
 
 ## Objectives
 
