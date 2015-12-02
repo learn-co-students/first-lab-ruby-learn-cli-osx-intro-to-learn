@@ -57,3 +57,5 @@ This lab is just about practicing the lab workflow on Learn using the `learn` CL
  ![learn submit](https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-submit-cli-osx.gif)
 
  You should see this lab pass on Learn.co. Congratulations!
+
+<a href='https://learn.co/lessons/first-lab-ruby-learn-cli-osx' data-visibility='hidden'>View this lesson on Learn.co</a>
