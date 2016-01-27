@@ -22,7 +22,7 @@ This lab is just about practicing the lab workflow on Learn using the `learn` CL
 
 1. Click on the "Open" link on the lab toolbar above.
 
- ![Open Button](https://dl.dropboxusercontent.com/s/6hmrbrtcf0gssev/2015-09-30%20at%207.11%20PM.png)
+ ![Open Button](https://s3-us-west-2.amazonaws.com/curriculum-content/intro-to-learn/first_lab_open.png)
 
  After you click on this, your Terminal should popup and open the lab locally by forking it on GitHub, cloning your fork, and `cd`ing into the lab's directory, and opening your editor.
 
@@ -34,7 +34,7 @@ This lab is just about practicing the lab workflow on Learn using the `learn` CL
 
  This setup, a terminal in the lab's directory and the lab directory open in an editor like Sublime or Atom, that's the state you want to be in when working on a lab on Learn. It means you're ready.
 
-3. From your terminal, run the test suite by typing `learn` and hitting enter. You'll see something simlar to:
+3. From your terminal, run the test suite by typing `learn` and hitting enter. You'll see something similar to:
 
  ![Failing Test](https://dl.dropboxusercontent.com/s/0ik01a1urmuw7o6/2015-09-30%20at%207.46%20PM.png)
 
