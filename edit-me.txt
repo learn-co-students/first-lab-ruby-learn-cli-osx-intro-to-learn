@@ -1,0 +1,3 @@
+my first edit.
+
+Observetion - for some reason after installing Learn on my Mac, my SSH keys got messed up and I had to generate the new ones to start working with the Learn Platform.
