@@ -10,7 +10,7 @@
 
 ## Overview
 
-Now that you've learned all about how to work on Lab's on Learn, we're going to practice using the Learn CLI to work on this very lab. To complete this lab you need to:
+Now that you've learned all about how to work on Labs on Learn, we're going to practice using the Learn CLI to work on this very lab. To complete this lab you need to:
 
 1. Open the lab with the Learn CLI
 2. Make a change to the `edit-me.txt` file or add a new file.
@@ -59,3 +59,5 @@ This lab is just about practicing the lab workflow on Learn using the `learn` CL
  You should see this lab pass on Learn.co. Congratulations!
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/first-lab-ruby-learn-cli-osx' title='First Lab Ruby Learn CLI  OS X'>First Lab Ruby Learn CLI  OS X</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/first-lab-ruby-learn-cli-osx'>First Lab - learn CLI</a> on Learn.co and start learning to code for free.</p>
