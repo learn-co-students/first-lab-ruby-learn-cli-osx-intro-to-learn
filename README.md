@@ -2,11 +2,11 @@
 
 ## Objectives
 
-1. Open a lab by clicking "Open" on this page on Learn.co.
-2. Run the lab's tests with the `learn` CLI command.
-3. Make a change to your local copy of this lab.
-4. Pass the tests using the `learn` CLI command.
-5. Submit the passing lab with the `learn submit` CLI command.
+1. Open a lab by running `learn open` from Terminal.app
+2. Run the lab's tests with the `learn` CLI command
+3. Make a change to your local copy of this lab
+4. Pass the tests using the `learn` CLI command
+5. Submit the passing lab with the `learn submit` CLI command
 
 ## Overview
 
@@ -20,11 +20,7 @@ Now that you've learned all about how to work on Labs on Learn, we're going to p
 
 This lab is just about practicing the lab workflow on Learn using the `learn` CLI.
 
-1. Click on the "Open" link on the lab toolbar above.
-
- ![Open Button](https://s3-us-west-2.amazonaws.com/curriculum-content/intro-to-learn/first_lab_open.png)
-
- After you click on this, your Terminal should popup and open the lab locally by forking it on GitHub, cloning your fork, and `cd`ing into the lab's directory, and opening your editor.
+1. Type `learn open` in Terminal.app — this will pull down the current lesson for you to work on by forking it on GitHub, cloning your fork, and `cd`ing into the lab's directory, and opening your editor.
 
  ![Learn Open](http://learn-co-videos.s3.amazonaws.com/learn-co-orientation/open-from-learn-co.gif)
 
@@ -57,7 +53,5 @@ This lab is just about practicing the lab workflow on Learn using the `learn` CL
  ![learn submit](https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-submit-cli-osx.gif)
 
  You should see this lab pass on Learn.co. Congratulations!
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/first-lab-ruby-learn-cli-osx' title='First Lab Ruby Learn CLI  OS X'>First Lab Ruby Learn CLI  OS X</a> on Learn.co and start learning to code for free.</p>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/first-lab-ruby-learn-cli-osx'>First Lab - learn CLI</a> on Learn.co and start learning to code for free.</p>
